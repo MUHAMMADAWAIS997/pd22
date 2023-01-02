@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+main(){
+float MB;
+cout<<"entre data in megabytes";
+cin>>MB
+float Bits;
+Bits = 1024 * 1024 * 8;
+cout<<"data in bits is:"<<Bits<<endl;
+
+}
